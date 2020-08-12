@@ -4,3 +4,8 @@ flag: strange
 availableValues:
   - strange
   - normal
+value:
+  - percentage: 50
+    option: strange
+  - percentage: 50
+    option: normal
