@@ -4,4 +4,3 @@ flag: strange
 availableValues:
   - strange
   - normal
-value: normal
