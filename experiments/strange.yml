@@ -1,0 +1,7 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: strange
+availableValues:
+  - strange
+  - normal
+value: normal
